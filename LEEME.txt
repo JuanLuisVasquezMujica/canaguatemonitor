@@ -1,0 +1,23 @@
+CAÑAGUATEMONITOR — VERSIÓN SIN MAPA
+
+INICIO:
+1. Descomprime todo el ZIP en una carpeta.
+2. Haz doble clic en ABRIR_CAÑAGUATEMONITOR.bat o abre index.html con Chrome, Edge o Firefox.
+3. No necesitas instalar Python, Docker ni una base de datos.
+
+FUNCIONES INCLUIDAS:
+- Inicio y navegación por módulos.
+- Inventario de árboles con búsqueda por código, especie y zona.
+- Registro de árboles sin necesidad de coordenadas geográficas.
+- Ficha individual e historial de riego, poda, abono e inspección.
+- Foro comunitario con publicaciones y comentarios.
+- Novedades y centro de ayuda.
+- Directorio de Alcaldía de Cúcuta, Gobernación de Norte de Santander y CORPONOR.
+
+IMPORTANTE:
+- Se eliminó por completo el mapa y las dependencias de Leaflet/OpenStreetMap.
+- Los árboles iniciales son ejemplos ficticios de demostración.
+- Los datos se guardan en el navegador mediante localStorage, en el computador donde se utilice.
+- El registro de nombre es demostrativo, no es una cuenta segura ni un sistema multiusuario.
+- Para compartir información entre ciudadanos se necesita conectar un servidor y una base de datos central.
+- Los enlaces institucionales llevan a los sitios oficiales; verifica allí teléfonos y procedimientos vigentes.
